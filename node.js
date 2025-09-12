@@ -7,6 +7,7 @@ const host = 'https://best-betting-games.netlify.app';
 // List all blog slugs here (without the domain)
 const blogSlugs = [
   'how-to-play-rummy-easy-rules-and-tips',
+  'best-rummy-apps-2025',
 ];
 
 // Generate URL list
