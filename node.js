@@ -8,6 +8,7 @@ const host = 'https://best-betting-games.netlify.app';
 const blogSlugs = [
   'how-to-play-rummy-easy-rules-and-tips',
   'best-rummy-apps-2025',
+  'crash-betting-game-real-money-guide',
 ];
 
 // Generate URL list
