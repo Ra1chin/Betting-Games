@@ -10,6 +10,7 @@ const blogSlugs = [
   'best-rummy-apps-2025',
   'crash-betting-game-real-money-guide',
   'best-teen-patti-india-betting-apps',
+  'super-ace-update-guide-tips',
 ];
 
 // Generate URL list
