@@ -11,6 +11,7 @@ const blogSlugs = [
   'crash-betting-game-real-money-guide',
   'best-teen-patti-india-betting-apps',
   'super-ace-update-guide-tips',
+  'teen-patti-update-win-guide',
 ];
 
 // Generate URL list
