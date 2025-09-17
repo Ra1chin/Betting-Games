@@ -9,6 +9,7 @@ const blogSlugs = [
   'how-to-play-rummy-easy-rules-and-tips',
   'best-rummy-apps-2025',
   'crash-betting-game-real-money-guide',
+  'best-teen-patti-india-betting-apps',
 ];
 
 // Generate URL list
