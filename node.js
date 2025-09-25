@@ -12,6 +12,8 @@ const blogSlugs = [
   'best-teen-patti-india-betting-apps',
   'super-ace-update-guide-tips',
   'teen-patti-update-win-guide',
+  'minesweeper-casino-2025',
+  'top-real-money-casino-betting-apps-2025',
 ];
 
 // Generate URL list
